@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Madhushan Liyanage</h1>
 <h3 align="center">A passionate full-stack developer</h3>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Coding+the+World)](https://git.io/typing-svg)
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Coding+the+World](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Coding+the+World_"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhushansliyanage&label=Profile%20views&color=0e75b6&style=flat" alt="madhushansliyanage" /> </p>
 
 - 📫 How to reach me **madhushansliyanage@gmail.com**
